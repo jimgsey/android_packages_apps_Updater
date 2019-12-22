@@ -41,9 +41,9 @@ public final class Constants {
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
     public static final String PROP_BUILD_VERSION = "ro.aosip.build.version";
     public static final String PROP_BUILD_VERSION_INCREMENTAL = "ro.build.version.incremental";
-    public static final String PROP_DEVICE = "ro.lineage.device";
+    public static final String PROP_DEVICE = "ro.aosip.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.lineage.releasetype";
+    public static final String PROP_RELEASE_TYPE = "ro.aosip.releasetype";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "aosip.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "aosip.updater.uri";
 
